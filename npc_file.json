@@ -1,0 +1,39 @@
+{
+    "npcs": [
+    {
+        "name" : "Hazion",
+        "age" : 78,
+        "gender" : "Male",
+        "race" : "Elf",
+        "class" : "Cleric",
+        "alignment" : "Neutral Good",
+        "background" : "Acolyte",
+        "profession" : "Priest",
+        "location" : "Luskan",
+        "campaign" : "Waterdeep"
+    },
+    {
+        "name" : "Salyse",
+        "age" : 33,
+        "gender" : "Female",
+        "race" : "Halfling",
+        "class" : "Rogue",
+        "alignment" : "Chaotic Good",
+        "background" : "Spy",
+        "profession" : "Hunter",
+        "location" : "Waterdeep",
+        "campaign" : "Waterdeep"
+    },
+    {
+        "name" : "Berrig",
+        "age" : 47,
+        "gender" : "Male",
+        "race" : "Dwarf",
+        "class" : "Fighter",
+        "alignment" : "Lawful Neutral",
+        "background" : "Sailor",
+        "profession" : "Trader",
+        "location" : "Neverwinter",
+        "campaign" : "Dragon Queen"
+    }
+]}
